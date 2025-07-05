@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ProASP.NET9\\Session02\\OnionArchSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67A4F4AF-B31A-9391-D96A-4E6483666F6C}|1.Core\\OnionArchSample.Core.ApplicationServices\\OnionArchSample.Core.ApplicationServices.csproj|g:\\proasp.net9\\session02\\onionarchsample\\1.core\\onionarchsample.core.applicationservices\\onionarchsample.core.applicationservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67A4F4AF-B31A-9391-D96A-4E6483666F6C}|1.Core\\OnionArchSample.Core.ApplicationServices\\OnionArchSample.Core.ApplicationServices.csproj|solutionrelative:1.core\\onionarchsample.core.applicationservices\\onionarchsample.core.applicationservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A864F4-7C3A-42BF-B2A3-51479E567F7E}|2.Infra\\Data\\OnionArchSample.Infra.Data.EF.SqlServer\\OnionArchSample.Infra.Data.EF.SqlServer.csproj|g:\\proasp.net9\\session02\\onionarchsample\\2.infra\\data\\onionarchsample.infra.data.ef.sqlserver\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A864F4-7C3A-42BF-B2A3-51479E567F7E}|2.Infra\\Data\\OnionArchSample.Infra.Data.EF.SqlServer\\OnionArchSample.Infra.Data.EF.SqlServer.csproj|solutionrelative:2.infra\\data\\onionarchsample.infra.data.ef.sqlserver\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD30E794-BB6A-4293-A4DC-1D0D517213C3}|1.Core\\OnionArchSample.Core.Domain\\OnionArchSample.Core.Domain.csproj|g:\\proasp.net9\\session02\\onionarchsample\\1.core\\onionarchsample.core.domain\\students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD30E794-BB6A-4293-A4DC-1D0D517213C3}|1.Core\\OnionArchSample.Core.Domain\\OnionArchSample.Core.Domain.csproj|solutionrelative:1.core\\onionarchsample.core.domain\\students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnionArchSample.Core.ApplicationServices",
+              "DocumentMoniker": "G:\\ProASP.NET9\\Session02\\OnionArchSample\\1.Core\\OnionArchSample.Core.ApplicationServices\\OnionArchSample.Core.ApplicationServices.csproj",
+              "RelativeDocumentMoniker": "1.Core\\OnionArchSample.Core.ApplicationServices\\OnionArchSample.Core.ApplicationServices.csproj",
+              "ToolTip": "G:\\ProASP.NET9\\Session02\\OnionArchSample\\1.Core\\OnionArchSample.Core.ApplicationServices\\OnionArchSample.Core.ApplicationServices.csproj",
+              "RelativeToolTip": "1.Core\\OnionArchSample.Core.ApplicationServices\\OnionArchSample.Core.ApplicationServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-02T16:24:25.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "G:\\ProASP.NET9\\Session02\\OnionArchSample\\2.Infra\\Data\\OnionArchSample.Infra.Data.EF.SqlServer\\Class1.cs",
+              "RelativeDocumentMoniker": "2.Infra\\Data\\OnionArchSample.Infra.Data.EF.SqlServer\\Class1.cs",
+              "ToolTip": "G:\\ProASP.NET9\\Session02\\OnionArchSample\\2.Infra\\Data\\OnionArchSample.Infra.Data.EF.SqlServer\\Class1.cs",
+              "RelativeToolTip": "2.Infra\\Data\\OnionArchSample.Infra.Data.EF.SqlServer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:23:48.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "G:\\ProASP.NET9\\Session02\\OnionArchSample\\1.Core\\OnionArchSample.Core.Domain\\Students\\Student.cs",
+              "RelativeDocumentMoniker": "1.Core\\OnionArchSample.Core.Domain\\Students\\Student.cs",
+              "ToolTip": "G:\\ProASP.NET9\\Session02\\OnionArchSample\\1.Core\\OnionArchSample.Core.Domain\\Students\\Student.cs",
+              "RelativeToolTip": "1.Core\\OnionArchSample.Core.Domain\\Students\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:19:54.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

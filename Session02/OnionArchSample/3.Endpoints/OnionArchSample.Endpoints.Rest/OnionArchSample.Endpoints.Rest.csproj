@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\1.Core\OnionArchSample.Core.ApplicationServices\OnionArchSample.Core.ApplicationServices.csproj" />
+    <ProjectReference Include="..\..\1.Core\OnionArchSample.Core.Contracts\OnionArchSample.Core.Contracts.csproj" />
+    <ProjectReference Include="..\..\1.Core\OnionArchSample.Core.Domain\OnionArchSample.Core.Domain.csproj" />
+    <ProjectReference Include="..\..\2.Infra\Data\OnionArchSample.Infra.Data.EF.SqlServer\OnionArchSample.Infra.Data.EF.SqlServer.csproj" />
+  </ItemGroup>
+
+</Project>

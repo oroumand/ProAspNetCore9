@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "+dxJAJdzFUHroSUHz8amGSEhs0pv72nCoibkqE0IUnk=",
+  "Source": "HttpSamples",
+  "BasePath": "_content/HttpSamples",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
