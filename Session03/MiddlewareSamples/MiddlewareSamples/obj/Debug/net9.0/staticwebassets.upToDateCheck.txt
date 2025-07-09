@@ -1,0 +1,2 @@
+G:\ProAspNetCore9\Session03\MiddlewareSamples\MiddlewareSamples\wwwroot\Index.html
+wwwroot\Index.html

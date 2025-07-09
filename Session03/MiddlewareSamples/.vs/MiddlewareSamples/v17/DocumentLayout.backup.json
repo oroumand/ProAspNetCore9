@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ProAspNetCore9\\Session03\\MiddlewareSamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8146605E-6A8C-4326-A4BE-EE520BAF8D90}|MiddlewareSamples\\MiddlewareSamples.csproj|g:\\proaspnetcore9\\session03\\middlewaresamples\\middlewaresamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8146605E-6A8C-4326-A4BE-EE520BAF8D90}|MiddlewareSamples\\MiddlewareSamples.csproj|solutionrelative:middlewaresamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8146605E-6A8C-4326-A4BE-EE520BAF8D90}|MiddlewareSamples\\MiddlewareSamples.csproj|g:\\proaspnetcore9\\session03\\middlewaresamples\\middlewaresamples\\middlewares\\logmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8146605E-6A8C-4326-A4BE-EE520BAF8D90}|MiddlewareSamples\\MiddlewareSamples.csproj|solutionrelative:middlewaresamples\\middlewares\\logmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8146605E-6A8C-4326-A4BE-EE520BAF8D90}|MiddlewareSamples\\MiddlewareSamples.csproj|g:\\proaspnetcore9\\session03\\middlewaresamples\\middlewaresamples\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8146605E-6A8C-4326-A4BE-EE520BAF8D90}|MiddlewareSamples\\MiddlewareSamples.csproj|solutionrelative:middlewaresamples\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogMiddleware.cs",
+              "DocumentMoniker": "G:\\ProAspNetCore9\\Session03\\MiddlewareSamples\\MiddlewareSamples\\Middlewares\\LogMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareSamples\\Middlewares\\LogMiddleware.cs",
+              "ToolTip": "G:\\ProAspNetCore9\\Session03\\MiddlewareSamples\\MiddlewareSamples\\Middlewares\\LogMiddleware.cs",
+              "RelativeToolTip": "MiddlewareSamples\\Middlewares\\LogMiddleware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T14:51:00.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.html",
+              "DocumentMoniker": "G:\\ProAspNetCore9\\Session03\\MiddlewareSamples\\MiddlewareSamples\\wwwroot\\Index.html",
+              "RelativeDocumentMoniker": "MiddlewareSamples\\wwwroot\\Index.html",
+              "ToolTip": "G:\\ProAspNetCore9\\Session03\\MiddlewareSamples\\MiddlewareSamples\\wwwroot\\Index.html",
+              "RelativeToolTip": "MiddlewareSamples\\wwwroot\\Index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-09T14:45:18.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ProAspNetCore9\\Session03\\MiddlewareSamples\\MiddlewareSamples\\Program.cs",
+              "RelativeDocumentMoniker": "MiddlewareSamples\\Program.cs",
+              "ToolTip": "G:\\ProAspNetCore9\\Session03\\MiddlewareSamples\\MiddlewareSamples\\Program.cs",
+              "RelativeToolTip": "MiddlewareSamples\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T14:40:09.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
