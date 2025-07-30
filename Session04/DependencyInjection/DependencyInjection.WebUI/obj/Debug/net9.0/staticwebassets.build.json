@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/TAd4kuFNlPKFGD42oiHKk4tPYH0wkxWSir0gCajQlw=",
+  "Source": "DependencyInjection.WebUI",
+  "BasePath": "_content/DependencyInjection.WebUI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

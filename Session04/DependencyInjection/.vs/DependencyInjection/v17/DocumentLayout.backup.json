@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ProAspNetCore9\\Session04\\DependencyInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D53AD3-7151-44A8-8A4C-A5A9F9F25DA1}|DependencyInjection.WebUI\\DependencyInjection.WebUI.csproj|g:\\proaspnetcore9\\session04\\dependencyinjection\\dependencyinjection.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D53AD3-7151-44A8-8A4C-A5A9F9F25DA1}|DependencyInjection.WebUI\\DependencyInjection.WebUI.csproj|solutionrelative:dependencyinjection.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D53AD3-7151-44A8-8A4C-A5A9F9F25DA1}|DependencyInjection.WebUI\\DependencyInjection.WebUI.csproj|g:\\proaspnetcore9\\session04\\dependencyinjection\\dependencyinjection.webui\\middlewares\\weathermiddeware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D53AD3-7151-44A8-8A4C-A5A9F9F25DA1}|DependencyInjection.WebUI\\DependencyInjection.WebUI.csproj|solutionrelative:dependencyinjection.webui\\middlewares\\weathermiddeware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D53AD3-7151-44A8-8A4C-A5A9F9F25DA1}|DependencyInjection.WebUI\\DependencyInjection.WebUI.csproj|g:\\proaspnetcore9\\session04\\dependencyinjection\\dependencyinjection.webui\\services\\textformatterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D53AD3-7151-44A8-8A4C-A5A9F9F25DA1}|DependencyInjection.WebUI\\DependencyInjection.WebUI.csproj|solutionrelative:dependencyinjection.webui\\services\\textformatterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherMiddeware.cs",
+              "DocumentMoniker": "G:\\ProAspNetCore9\\Session04\\DependencyInjection\\DependencyInjection.WebUI\\Middlewares\\WeatherMiddeware.cs",
+              "RelativeDocumentMoniker": "DependencyInjection.WebUI\\Middlewares\\WeatherMiddeware.cs",
+              "ToolTip": "G:\\ProAspNetCore9\\Session04\\DependencyInjection\\DependencyInjection.WebUI\\Middlewares\\WeatherMiddeware.cs",
+              "RelativeToolTip": "DependencyInjection.WebUI\\Middlewares\\WeatherMiddeware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:43:23.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextFormatterExtensions.cs",
+              "DocumentMoniker": "G:\\ProAspNetCore9\\Session04\\DependencyInjection\\DependencyInjection.WebUI\\Services\\TextFormatterExtensions.cs",
+              "RelativeDocumentMoniker": "DependencyInjection.WebUI\\Services\\TextFormatterExtensions.cs",
+              "ToolTip": "G:\\ProAspNetCore9\\Session04\\DependencyInjection\\DependencyInjection.WebUI\\Services\\TextFormatterExtensions.cs",
+              "RelativeToolTip": "DependencyInjection.WebUI\\Services\\TextFormatterExtensions.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:42:26.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ProAspNetCore9\\Session04\\DependencyInjection\\DependencyInjection.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjection.WebUI\\Program.cs",
+              "ToolTip": "G:\\ProAspNetCore9\\Session04\\DependencyInjection\\DependencyInjection.WebUI\\Program.cs",
+              "RelativeToolTip": "DependencyInjection.WebUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:42:16.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
