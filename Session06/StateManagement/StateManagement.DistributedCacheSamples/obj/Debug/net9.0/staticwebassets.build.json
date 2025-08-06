@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eIe95VJqaHcln0lv14meC8ehaeTxaSF83o8seskhIUM=",
+  "Source": "StateManagement.DistributedCacheSamples",
+  "BasePath": "_content/StateManagement.DistributedCacheSamples",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
