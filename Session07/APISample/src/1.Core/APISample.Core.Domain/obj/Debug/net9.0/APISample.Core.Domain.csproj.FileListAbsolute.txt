@@ -1,0 +1,12 @@
+G:\ProAspNetCore9\Session07\APISample\src\1.Core\APISample.Core.Domain\bin\Debug\net9.0\APISample.Core.Domain.deps.json
+G:\ProAspNetCore9\Session07\APISample\src\1.Core\APISample.Core.Domain\bin\Debug\net9.0\APISample.Core.Domain.dll
+G:\ProAspNetCore9\Session07\APISample\src\1.Core\APISample.Core.Domain\bin\Debug\net9.0\APISample.Core.Domain.pdb
+G:\ProAspNetCore9\Session07\APISample\src\1.Core\APISample.Core.Domain\obj\Debug\net9.0\APISample.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProAspNetCore9\Session07\APISample\src\1.Core\APISample.Core.Domain\obj\Debug\net9.0\APISample.Core.Domain.AssemblyInfoInputs.cache
+G:\ProAspNetCore9\Session07\APISample\src\1.Core\APISample.Core.Domain\obj\Debug\net9.0\APISample.Core.Domain.AssemblyInfo.cs
+G:\ProAspNetCore9\Session07\APISample\src\1.Core\APISample.Core.Domain\obj\Debug\net9.0\APISample.Core.Domain.csproj.CoreCompileInputs.cache
+G:\ProAspNetCore9\Session07\APISample\src\1.Core\APISample.Core.Domain\obj\Debug\net9.0\APISample.Core.Domain.sourcelink.json
+G:\ProAspNetCore9\Session07\APISample\src\1.Core\APISample.Core.Domain\obj\Debug\net9.0\APISample.Core.Domain.dll
+G:\ProAspNetCore9\Session07\APISample\src\1.Core\APISample.Core.Domain\obj\Debug\net9.0\refint\APISample.Core.Domain.dll
+G:\ProAspNetCore9\Session07\APISample\src\1.Core\APISample.Core.Domain\obj\Debug\net9.0\APISample.Core.Domain.pdb
+G:\ProAspNetCore9\Session07\APISample\src\1.Core\APISample.Core.Domain\obj\Debug\net9.0\ref\APISample.Core.Domain.dll

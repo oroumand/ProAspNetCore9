@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "APISample.Endpoints.MvcSamples.Controllers.ProductsController",
+    "Method": "Save",
+    "RelativePath": "api/Products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "APISample.Endpoints.MvcSamples.Models.Products.SaveProductRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APISample.Endpoints.MvcSamples.Controllers.ProductsController",
+    "Method": "Get",
+    "RelativePath": "api/Products/Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

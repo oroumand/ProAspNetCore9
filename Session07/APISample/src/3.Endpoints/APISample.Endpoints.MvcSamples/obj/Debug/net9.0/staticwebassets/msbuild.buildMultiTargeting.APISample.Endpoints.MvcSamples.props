@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APISample.Endpoints.MvcSamples.props" />
+</Project>

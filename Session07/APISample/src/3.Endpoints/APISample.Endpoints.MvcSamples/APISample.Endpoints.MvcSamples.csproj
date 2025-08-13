@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\APISample.Infra.Data.Ef.SQL\APISample.Infra.Data.Ef.SQL.csproj" />
+    <ProjectReference Include="..\..\1.Core\APISample.Core.ApplicationService\APISample.Core.ApplicationService.csproj" />
+    <ProjectReference Include="..\..\1.Core\APISample.Core.Domain\APISample.Core.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

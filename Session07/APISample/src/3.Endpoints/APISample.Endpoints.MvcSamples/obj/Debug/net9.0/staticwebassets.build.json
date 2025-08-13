@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "g3C5jhC4X50vKOX8aef/iwE2q60+EjfRxZ2c0KGmu1g=",
+  "Source": "APISample.Endpoints.MvcSamples",
+  "BasePath": "_content/APISample.Endpoints.MvcSamples",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
