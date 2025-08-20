@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="/lib/bootstrap/css/bootstrap.rtl.css" rel="stylesheet" />
+
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        Header
+        @*         @if (IsSectionDefined("Header"))
+        {
+            RenderSection("Header");
+        } *@
+
+        @RenderSection("Header", false)
+
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+    <div>Footer</div>
+</body>
+</html>

@@ -1,0 +1,28 @@
+﻿@model PersonViewModel
+
+<form asp-action="Save" asp-controller="People">
+    <div asp-validation-summary="All"></div>
+
+    <div>
+        <label asp-for="FirstName"></label>
+        <input type="text" asp-for="FirstName" />
+    </div>
+    <div>
+        <label asp-for="LastName"></label>
+        <input type="text" asp-for="LastName" />
+    </div>
+    <div>
+        <input type="submit" value="Submit" />
+    </div>
+</form>
+<environment names="Development">
+    <div>
+        Log
+    </div>
+</environment>
+
+<environment names="Production">
+    <div>
+        User Name
+    </div>
+</environment>

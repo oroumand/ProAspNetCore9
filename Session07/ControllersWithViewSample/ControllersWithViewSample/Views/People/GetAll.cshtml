@@ -1,0 +1,42 @@
+﻿@model List<Person>
+
+
+
+@section Header
+{
+    <h1>Get App Person</h1>
+}
+
+<partial name="_Fullname" />
+
+<table aro-table-color="info">
+    <tr>
+        <th>
+            Id
+        </th>
+        <th>
+            Firstname
+        </th>
+        <th>
+            Lastname
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.FirstName</td>
+            <td>@item.LastName</td>
+        </tr>
+    }
+</table>
+
+
+@* @ViewBag.HtmlText *@
+@Html.Raw(ViewBag.HtmlText)
+
+
+@Json.Serialize(Model)
+
+
+

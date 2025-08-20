@@ -1,0 +1,569 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "G:\\ProAspNetCore9\\Session07\\ControllersWithViewSample\\ControllersWithViewSample\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ControllersWithViewSample.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ControllersWithViewSample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ControllersWithViewSample.props",
+      "PackagePath": "build\\ControllersWithViewSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ControllersWithViewSample.props",
+      "PackagePath": "buildMultiTargeting\\ControllersWithViewSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ControllersWithViewSample.props",
+      "PackagePath": "buildTransitive\\ControllersWithViewSample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
