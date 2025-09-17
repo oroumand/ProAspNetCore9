@@ -1,0 +1,14 @@
+@startuml
+title Container View - Frontend (Razor Pages)
+
+actor "کاربر سامانه" as User
+
+package "Frontend (ASP.NET Razor Pages)" {
+  [Razor Pages App] as Razor
+}
+
+rectangle "Link Management API (REST)" as LinkAPI
+
+User --> Razor : استفاده از UI (ثبت لینک/گزارش)
+Razor --> LinkAPI : REST/HTTPS (JSON)
+@enduml

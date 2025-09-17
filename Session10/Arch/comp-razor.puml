@@ -1,0 +1,22 @@
+@startuml
+title Components - Frontend (ASP.NET Razor Pages)
+
+actor "کاربر سامانه" as User
+
+package "Frontend (Razor Pages)" {
+  [UI: Link Form] as LinkForm
+  [UI: Reports] as Reports
+  [Handler: SubmitLink] as SubmitLink
+  [Handler: ViewStats] as ViewStats
+}
+
+rectangle "Link Management API (REST)" as LinkAPI
+
+User --> LinkForm : وارد کردن URL
+LinkForm --> SubmitLink : ارسال فرم ساخت لینک
+SubmitLink --> LinkAPI : POST /api/links
+
+User --> Reports : مشاهده آمار
+Reports --> ViewStats : واکشی داده‌ها
+ViewStats --> LinkAPI : GET /api/reports (…)
+@enduml

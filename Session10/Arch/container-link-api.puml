@@ -1,0 +1,20 @@
+@startuml
+title Container View - Link Management API
+
+rectangle "Frontend (Razor Pages)" as Razor
+actor "کاربر سامانه" as User
+package "Link Management API (ASP.NET Core)" {
+  [Link Management API] as LinkAPI
+  database "SQL Server (Link DB)" as LinkDB
+  node "Redis Cache" as Redis
+}
+
+rectangle "Code Generator Service (REST)" as CodeSvc
+
+User --> Razor : کار با UI
+Razor --> LinkAPI : REST/HTTPS
+LinkAPI --> Redis : GET/SET (استخر کد/داده پرتردد)
+LinkAPI --> LinkDB : خواندن/نوشتن
+LinkAPI --> CodeSvc : درخواست batch کد
+
+@enduml

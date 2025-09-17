@@ -1,0 +1,22 @@
+@startuml
+title Context Diagram - Link Shortener System
+
+actor "کاربر سامانه" as User
+
+package "سامانه کوتاه‌کننده لینک" {
+  [Frontend (Razor Pages)]
+  [Link Management API]
+  [Code Generator Service]
+  database "SQL Server (Link DB)" as LinkDB
+  database "SQL Server (Code DB)" as CodeDB
+  node "Redis Cache" as Redis
+}
+
+User --> [Frontend (Razor Pages)] : ثبت لینک / مشاهده آمار
+[Frontend (Razor Pages)] --> [Link Management API] : REST API
+[Link Management API] --> LinkDB : خواندن/نوشتن
+[Link Management API] --> Redis : GET/SET
+[Link Management API] --> [Code Generator Service] : درخواست دسته کد
+[Code Generator Service] --> CodeDB : خواندن/نوشتن
+
+@enduml
