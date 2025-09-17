@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APISample.Infra.Data.Ef.SQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c9858c03a1b5bc941cba069e7bec7cce4d64303")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fb06ab8e161b8ad7ffcfc4166ff8d655f7e199c")]
 [assembly: System.Reflection.AssemblyProductAttribute("APISample.Infra.Data.Ef.SQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APISample.Infra.Data.Ef.SQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

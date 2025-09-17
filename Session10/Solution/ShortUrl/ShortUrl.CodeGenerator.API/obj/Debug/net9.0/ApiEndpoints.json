@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "ShortUrl.CodeGenerator.API.Controllers.CodeController",
+    "Method": "Generate",
+    "RelativePath": "api/Code",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "ShortUrl.CodeGenerator.API.Dtos.GenerateCodesRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ShortUrl.CodeGenerator.API.Dtos.GenerateCodesResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ShortUrl.CodeGenerator.API.Controllers.CodeController",
+    "Method": "Status",
+    "RelativePath": "api/Code/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "length",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ShortUrl.CodeGenerator.API.Dtos.InventoryStatusResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

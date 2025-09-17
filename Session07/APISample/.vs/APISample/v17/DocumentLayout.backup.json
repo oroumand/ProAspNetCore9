@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "G:\\ProAspNetCore9\\Session07\\APISample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8D648F21-C382-4DC8-9894-D8EB9D411AB1}|APISample.Infra.Data.Ef.SQL\\APISample.Infra.Data.Ef.SQL.csproj|g:\\proaspnetcore9\\session07\\apisample\\apisample.infra.data.ef.sql\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D648F21-C382-4DC8-9894-D8EB9D411AB1}|APISample.Infra.Data.Ef.SQL\\APISample.Infra.Data.Ef.SQL.csproj|solutionrelative:apisample.infra.data.ef.sql\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC6B32D0-C50C-433C-BDF6-DA5D19D95102}|src\\3.Endpoints\\APISample.Endpoints.MvcSamples\\APISample.Endpoints.MvcSamples.csproj|g:\\proaspnetcore9\\session07\\apisample\\src\\3.endpoints\\apisample.endpoints.mvcsamples\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC6B32D0-C50C-433C-BDF6-DA5D19D95102}|src\\3.Endpoints\\APISample.Endpoints.MvcSamples\\APISample.Endpoints.MvcSamples.csproj|solutionrelative:src\\3.endpoints\\apisample.endpoints.mvcsamples\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "G:\\ProAspNetCore9\\Session07\\APISample\\APISample.Infra.Data.Ef.SQL\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "APISample.Infra.Data.Ef.SQL\\ProductDbContext.cs",
+              "ToolTip": "G:\\ProAspNetCore9\\Session07\\APISample\\APISample.Infra.Data.Ef.SQL\\ProductDbContext.cs",
+              "RelativeToolTip": "APISample.Infra.Data.Ef.SQL\\ProductDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T14:09:06.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "G:\\ProAspNetCore9\\Session07\\APISample\\src\\3.Endpoints\\APISample.Endpoints.MvcSamples\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "src\\3.Endpoints\\APISample.Endpoints.MvcSamples\\Controllers\\ProductsController.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MyController.cs",
               "DocumentMoniker": "G:\\ProAspNetCore9\\Session07\\APISample\\src\\3.Endpoints\\APISample.Endpoints.MvcSamples\\Controllers\\MyController.cs",
               "RelativeDocumentMoniker": "src\\3.Endpoints\\APISample.Endpoints.MvcSamples\\Controllers\\MyController.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "src\\3.Endpoints\\APISample.Endpoints.MvcSamples\\Controllers\\MyController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T16:50:52.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T16:50:52.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\ProAspNetCore9\\Session07\\APISample\\src\\3.Endpoints\\APISample.Endpoints.MvcSamples\\Program.cs",
               "RelativeDocumentMoniker": "src\\3.Endpoints\\APISample.Endpoints.MvcSamples\\Program.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "src\\3.Endpoints\\APISample.Endpoints.MvcSamples\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T16:46:50.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T16:46:50.863Z"
             }
           ]
         }
