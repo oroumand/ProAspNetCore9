@@ -1,0 +1,31 @@
+@startuml
+title Components - Code Generator Service (ASP.NET Core)
+
+package "Code Generator Service" {
+  [Controller: CodeController] as CodeCtrl
+  [Service: CodeGenerationService] as CodeGen
+  [Service: AllocationTracker] as Tracker
+  [Repository: CodeRepository] as CodeRepo
+
+  database "SQL Server (Code DB)" as CodeDB
+}
+
+rectangle "Link Management API (REST Client)" as LinkAPI
+
+' تولید batch کد
+LinkAPI --> CodeCtrl : POST /api/codes {count,length}
+CodeCtrl --> CodeGen : GenerateBatch(count, length)
+CodeGen --> CodeRepo : PersistNewCodes(batch)
+CodeRepo --> CodeDB : INSERT (codes)
+
+' تحویل و ثبت دفتر تخصیص
+CodeCtrl --> Tracker : RecordAllocation(batch, requesterId, ts)
+Tracker --> CodeRepo : UpdateAllocationLedger(...)
+CodeRepo --> CodeDB : UPDATE/INSERT
+
+' بازیابی/وضعیت (اختیاری)
+LinkAPI --> CodeCtrl : GET /api/codes/status
+CodeCtrl --> CodeRepo : QueryInventory()/Ledger()
+CodeRepo --> CodeDB : SELECT
+
+@enduml

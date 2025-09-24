@@ -1,0 +1,14 @@
+@startuml
+title Container View - Code Generator Service
+
+rectangle "Link Management API (REST)" as LinkAPI
+
+package "Code Generator Service (ASP.NET Core)" {
+  [Code Generator Service] as CodeSvc
+  database "SQL Server (Code DB)" as CodeDB
+}
+
+LinkAPI --> CodeSvc : درخواست تولید/تحویل batch کد
+CodeSvc --> CodeDB : خواندن/نوشتن (موجودی و دفتر تخصیص)
+
+@enduml

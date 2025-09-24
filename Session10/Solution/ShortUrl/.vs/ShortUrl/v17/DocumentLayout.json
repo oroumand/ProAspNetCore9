@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|g:\\proaspnetcore9\\session10\\solution\\shorturl\\shorturl.linkmanager.api\\controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|solutionrelative:shorturl.linkmanager.api\\controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|g:\\proaspnetcore9\\session10\\solution\\shorturl\\shorturl.linkmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|solutionrelative:shorturl.linkmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|g:\\proaspnetcore9\\session10\\solution\\shorturl\\shorturl.linkmanager.api\\controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|solutionrelative:shorturl.linkmanager.api\\controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|g:\\proaspnetcore9\\session10\\solution\\shorturl\\shorturl.linkmanager.api\\clients\\codegeneratorclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|solutionrelative:shorturl.linkmanager.api\\clients\\codegeneratorclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|g:\\proaspnetcore9\\session10\\solution\\shorturl\\shorturl.linkmanager.api\\services\\redirectresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|solutionrelative:shorturl.linkmanager.api\\services\\redirectresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF4B2ECE-36E3-4F70-A5C1-4D500CC34A2B}|ShortUrl.CodeGenerator.API\\ShortUrl.CodeGenerator.API.csproj|g:\\proaspnetcore9\\session10\\solution\\shorturl\\shorturl.codegenerator.api\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF4B2ECE-36E3-4F70-A5C1-4D500CC34A2B}|ShortUrl.CodeGenerator.API\\ShortUrl.CodeGenerator.API.csproj|solutionrelative:shorturl.codegenerator.api\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|g:\\proaspnetcore9\\session10\\solution\\shorturl\\shorturl.linkmanager.api\\services\\linkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|solutionrelative:shorturl.linkmanager.api\\services\\linkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|g:\\proaspnetcore9\\session10\\solution\\shorturl\\shorturl.linkmanager.api\\services\\clicklogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|solutionrelative:shorturl.linkmanager.api\\services\\clicklogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|g:\\proaspnetcore9\\session10\\solution\\shorturl\\shorturl.linkmanager.api\\services\\cachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|solutionrelative:shorturl.linkmanager.api\\services\\cachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|g:\\proaspnetcore9\\session10\\solution\\shorturl\\shorturl.linkmanager.api\\services\\iclicklogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|solutionrelative:shorturl.linkmanager.api\\services\\iclicklogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|g:\\proaspnetcore9\\session10\\solution\\shorturl\\shorturl.linkmanager.api\\services\\iredirectresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|solutionrelative:shorturl.linkmanager.api\\services\\iredirectresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|g:\\proaspnetcore9\\session10\\solution\\shorturl\\shorturl.linkmanager.api\\services\\ilinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|solutionrelative:shorturl.linkmanager.api\\services\\ilinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|g:\\proaspnetcore9\\session10\\solution\\shorturl\\shorturl.linkmanager.api\\services\\icachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0025427A-8BFE-479F-8661-C089C9ABD7BC}|ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj|solutionrelative:shorturl.linkmanager.api\\services\\icachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +55,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RedirectController.cs",
-              "DocumentMoniker": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Controllers\\RedirectController.cs",
-              "RelativeDocumentMoniker": "ShortUrl.LinkManager.API\\Controllers\\RedirectController.cs",
-              "ToolTip": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Controllers\\RedirectController.cs",
-              "RelativeToolTip": "ShortUrl.LinkManager.API\\Controllers\\RedirectController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAADwvykAAAAEAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Program.cs",
+              "RelativeDocumentMoniker": "ShortUrl.LinkManager.API\\Program.cs",
+              "ToolTip": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Program.cs",
+              "RelativeToolTip": "ShortUrl.LinkManager.API\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwDoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T09:50:29.55Z",
+              "WhenOpened": "2025-09-17T16:38:26.245Z",
               "EditorCaption": ""
             },
             {
@@ -49,35 +73,113 @@
               "RelativeDocumentMoniker": "ShortUrl.LinkManager.API\\Controllers\\LinksController.cs",
               "ToolTip": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Controllers\\LinksController.cs",
               "RelativeToolTip": "ShortUrl.LinkManager.API\\Controllers\\LinksController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxIAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T09:34:11.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CodeController.cs",
-              "DocumentMoniker": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.CodeGenerator.API\\Controllers\\CodeController.cs",
-              "RelativeDocumentMoniker": "ShortUrl.CodeGenerator.API\\Controllers\\CodeController.cs",
-              "ToolTip": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.CodeGenerator.API\\Controllers\\CodeController.cs",
-              "RelativeToolTip": "ShortUrl.CodeGenerator.API\\Controllers\\CodeController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvxQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T09:34:11.934Z",
+              "WhenOpened": "2025-09-17T16:37:10.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CodeGeneratorClient.cs",
-              "DocumentMoniker": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Clients\\CodeGeneratorClient.cs",
-              "RelativeDocumentMoniker": "ShortUrl.LinkManager.API\\Clients\\CodeGeneratorClient.cs",
-              "ToolTip": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Clients\\CodeGeneratorClient.cs",
-              "RelativeToolTip": "ShortUrl.LinkManager.API\\Clients\\CodeGeneratorClient.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAADwvzkAAAAEAAAAAAAAAA==",
+              "Title": "RedirectResolver.cs",
+              "DocumentMoniker": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Services\\RedirectResolver.cs",
+              "RelativeDocumentMoniker": "ShortUrl.LinkManager.API\\Services\\RedirectResolver.cs",
+              "ToolTip": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Services\\RedirectResolver.cs",
+              "RelativeToolTip": "ShortUrl.LinkManager.API\\Services\\RedirectResolver.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T09:07:10.171Z",
+              "WhenOpened": "2025-09-17T16:35:09.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LinkService.cs",
+              "DocumentMoniker": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Services\\LinkService.cs",
+              "RelativeDocumentMoniker": "ShortUrl.LinkManager.API\\Services\\LinkService.cs",
+              "ToolTip": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Services\\LinkService.cs",
+              "RelativeToolTip": "ShortUrl.LinkManager.API\\Services\\LinkService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAA3wFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:32:38.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClickLogger.cs",
+              "DocumentMoniker": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Services\\ClickLogger.cs",
+              "RelativeDocumentMoniker": "ShortUrl.LinkManager.API\\Services\\ClickLogger.cs",
+              "ToolTip": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Services\\ClickLogger.cs",
+              "RelativeToolTip": "ShortUrl.LinkManager.API\\Services\\ClickLogger.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:32:05.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CacheManager.cs",
+              "DocumentMoniker": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Services\\CacheManager.cs",
+              "RelativeDocumentMoniker": "ShortUrl.LinkManager.API\\Services\\CacheManager.cs",
+              "ToolTip": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Services\\CacheManager.cs",
+              "RelativeToolTip": "ShortUrl.LinkManager.API\\Services\\CacheManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:31:34.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClickLogger.cs",
+              "DocumentMoniker": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Services\\IClickLogger.cs",
+              "RelativeDocumentMoniker": "ShortUrl.LinkManager.API\\Services\\IClickLogger.cs",
+              "ToolTip": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Services\\IClickLogger.cs",
+              "RelativeToolTip": "ShortUrl.LinkManager.API\\Services\\IClickLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:31:20.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRedirectResolver.cs",
+              "DocumentMoniker": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Services\\IRedirectResolver.cs",
+              "RelativeDocumentMoniker": "ShortUrl.LinkManager.API\\Services\\IRedirectResolver.cs",
+              "ToolTip": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Services\\IRedirectResolver.cs",
+              "RelativeToolTip": "ShortUrl.LinkManager.API\\Services\\IRedirectResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:30:44.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILinkService.cs",
+              "DocumentMoniker": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Services\\ILinkService.cs",
+              "RelativeDocumentMoniker": "ShortUrl.LinkManager.API\\Services\\ILinkService.cs",
+              "ToolTip": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Services\\ILinkService.cs",
+              "RelativeToolTip": "ShortUrl.LinkManager.API\\Services\\ILinkService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:30:37.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICacheManager.cs",
+              "DocumentMoniker": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Services\\ICacheManager.cs",
+              "RelativeDocumentMoniker": "ShortUrl.LinkManager.API\\Services\\ICacheManager.cs",
+              "ToolTip": "G:\\ProAspNetCore9\\Session10\\Solution\\ShortUrl\\ShortUrl.LinkManager.API\\Services\\ICacheManager.cs",
+              "RelativeToolTip": "ShortUrl.LinkManager.API\\Services\\ICacheManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:29:57.504Z",
               "EditorCaption": ""
             }
           ]

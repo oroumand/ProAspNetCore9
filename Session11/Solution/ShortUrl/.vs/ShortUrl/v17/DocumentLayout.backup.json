@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Sources\\ProAspNetCore9\\Session11\\Solution\\ShortUrl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29112CAD-B6D4-4141-6B0A-E7C289E08AA4}|ShortUrl.RazorShortener\\ShortUrl.RazorShortener.csproj|g:\\sources\\proaspnetcore9\\session11\\solution\\shorturl\\shorturl.razorshortener\\pages\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29112CAD-B6D4-4141-6B0A-E7C289E08AA4}|ShortUrl.RazorShortener\\ShortUrl.RazorShortener.csproj|solutionrelative:shorturl.razorshortener\\pages\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29112CAD-B6D4-4141-6B0A-E7C289E08AA4}|ShortUrl.RazorShortener\\ShortUrl.RazorShortener.csproj|g:\\sources\\proaspnetcore9\\session11\\solution\\shorturl\\shorturl.razorshortener\\pages\\reports.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29112CAD-B6D4-4141-6B0A-E7C289E08AA4}|ShortUrl.RazorShortener\\ShortUrl.RazorShortener.csproj|solutionrelative:shorturl.razorshortener\\pages\\reports.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29112CAD-B6D4-4141-6B0A-E7C289E08AA4}|ShortUrl.RazorShortener\\ShortUrl.RazorShortener.csproj|g:\\sources\\proaspnetcore9\\session11\\solution\\shorturl\\shorturl.razorshortener\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29112CAD-B6D4-4141-6B0A-E7C289E08AA4}|ShortUrl.RazorShortener\\ShortUrl.RazorShortener.csproj|solutionrelative:shorturl.razorshortener\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29112CAD-B6D4-4141-6B0A-E7C289E08AA4}|ShortUrl.RazorShortener\\ShortUrl.RazorShortener.csproj|g:\\sources\\proaspnetcore9\\session11\\solution\\shorturl\\shorturl.razorshortener\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29112CAD-B6D4-4141-6B0A-E7C289E08AA4}|ShortUrl.RazorShortener\\ShortUrl.RazorShortener.csproj|solutionrelative:shorturl.razorshortener\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reports.cshtml.cs",
+              "DocumentMoniker": "G:\\Sources\\ProAspNetCore9\\Session11\\Solution\\ShortUrl\\ShortUrl.RazorShortener\\Pages\\Reports.cshtml.cs",
+              "RelativeDocumentMoniker": "ShortUrl.RazorShortener\\Pages\\Reports.cshtml.cs",
+              "ToolTip": "G:\\Sources\\ProAspNetCore9\\Session11\\Solution\\ShortUrl\\ShortUrl.RazorShortener\\Pages\\Reports.cshtml.cs",
+              "RelativeToolTip": "ShortUrl.RazorShortener\\Pages\\Reports.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:21:52.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reports.cshtml",
+              "DocumentMoniker": "G:\\Sources\\ProAspNetCore9\\Session11\\Solution\\ShortUrl\\ShortUrl.RazorShortener\\Pages\\Reports.cshtml",
+              "RelativeDocumentMoniker": "ShortUrl.RazorShortener\\Pages\\Reports.cshtml",
+              "ToolTip": "G:\\Sources\\ProAspNetCore9\\Session11\\Solution\\ShortUrl\\ShortUrl.RazorShortener\\Pages\\Reports.cshtml",
+              "RelativeToolTip": "ShortUrl.RazorShortener\\Pages\\Reports.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T15:20:17.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "G:\\Sources\\ProAspNetCore9\\Session11\\Solution\\ShortUrl\\ShortUrl.RazorShortener\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ShortUrl.RazorShortener\\Pages\\Index.cshtml.cs",
+              "ToolTip": "G:\\Sources\\ProAspNetCore9\\Session11\\Solution\\ShortUrl\\ShortUrl.RazorShortener\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ShortUrl.RazorShortener\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:10:03.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\Sources\\ProAspNetCore9\\Session11\\Solution\\ShortUrl\\ShortUrl.RazorShortener\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShortUrl.RazorShortener\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\Sources\\ProAspNetCore9\\Session11\\Solution\\ShortUrl\\ShortUrl.RazorShortener\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShortUrl.RazorShortener\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T15:09:23.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

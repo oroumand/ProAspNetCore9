@@ -1,0 +1,37 @@
+﻿@page
+@model ShortUrl.RazorShortener.Pages.ReportsModel
+@{
+    ViewData["Title"] = "گزارش خلاصه";
+}
+
+<div class="card shadow-sm">
+    <div class="card-header">گزارش خلاصه</div>
+    <div class="card-body">
+        <div class="row text-center">
+            <div class="col-md-3 mb-3">
+                <div class="p-3 bg-light border rounded">
+                    <div class="fw-bold">کل لینک‌ها</div>
+                    <div class="display-6">@Model.Summary.TotalLinks</div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-3">
+                <div class="p-3 bg-light border rounded">
+                    <div class="fw-bold">فعال</div>
+                    <div class="display-6">@Model.Summary.ActiveLinks</div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-3">
+                <div class="p-3 bg-light border rounded">
+                    <div class="fw-bold">غیرفعال</div>
+                    <div class="display-6">@Model.Summary.DisabledLinks</div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-3">
+                <div class="p-3 bg-light border rounded">
+                    <div class="fw-bold">منقضی</div>
+                    <div class="display-6">@Model.Summary.ExpiredLinks</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

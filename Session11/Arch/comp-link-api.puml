@@ -1,0 +1,34 @@
+@startuml
+title Components - Link Management API (ASP.NET Core)
+
+package "Link Management API" {
+  [Controller: LinkController] as LinkCtrl
+  [Service: LinkService] as LinkSvc
+  [Service: CacheManager] as CacheMgr
+  [Client: CodeServiceClient] as CodeClient
+  [Repository: LinkRepository] as LinkRepo
+
+  database "SQL Server (Link DB)" as LinkDB
+  node "Redis Cache" as Redis
+}
+
+rectangle "Code Generator Service (REST)" as CodeSvc
+
+' جریان ساخت لینک
+LinkCtrl --> LinkSvc : CreateShortLink(longUrl, options)
+LinkSvc --> CacheMgr : AcquireCodeFromCache()
+CacheMgr --> Redis : GET code (pop)
+LinkSvc --> LinkRepo : Save(link, code, ts)
+LinkRepo --> LinkDB : INSERT
+
+' در صورت اتمام موجودی کد
+LinkSvc --> CodeClient : RequestBatchCodes(count, length)
+CodeClient --> CodeSvc : POST /api/codes (batch)
+LinkSvc --> CacheMgr : Warmup(cache, newCodes)
+CacheMgr --> Redis : SET batch
+
+' گزارش/آمار (پایه)
+LinkCtrl --> LinkRepo : GetStats(filters)
+LinkRepo --> LinkDB : SELECT aggregates
+
+@enduml

@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ShortUrl.CodeGenerator.API\\ShortUrl.CodeGenerator.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ShortUrl.LinkManager.API\\ShortUrl.LinkManager.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ShortUrl.RazorShortener\\ShortUrl.RazorShortener.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+﻿@page
+@model RazorShortener.Pages.IndexModel
+@{
+    ViewData["Title"] = "ساخت لینک کوتاه";
+}
+
+<div class="card shadow-sm">
+    <div class="card-header">ساخت لینک کوتاه</div>
+    <div class="card-body">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-2"></div>
+
+            <div class="mb-3">
+                <label asp-for="Input.LongUrl" class="form-label"></label>
+                <input asp-for="Input.LongUrl" class="form-control" placeholder="https://example.com/..." />
+                <span asp-validation-for="Input.LongUrl" class="text-danger"></span>
+            </div>
+
+            <div class="row">
+                <div class="col-md-4 mb-3">
+                    <label asp-for="Input.ExpiryDate" class="form-label"></label>
+                    <input asp-for="Input.ExpiryDate" class="form-control" />
+                    <span asp-validation-for="Input.ExpiryDate" class="text-danger"></span>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <label asp-for="Input.MaxClicks" class="form-label"></label>
+                    <input asp-for="Input.MaxClicks" class="form-control" />
+                    <span asp-validation-for="Input.MaxClicks" class="text-danger"></span>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <label asp-for="Input.CodeLength" class="form-label"></label>
+                    <input asp-for="Input.CodeLength" class="form-control" />
+                    <span asp-validation-for="Input.CodeLength" class="text-danger"></span>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary">ثبت</button>
+        </form>
+
+        @if (!string.IsNullOrEmpty(Model.Input.ShortUrl))
+        {
+            <hr />
+            <div class="alert alert-success">
+                لینک شما آماده است:
+                <a href="@Model.Input.ShortUrl" target="_blank">@Model.Input.ShortUrl</a>
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

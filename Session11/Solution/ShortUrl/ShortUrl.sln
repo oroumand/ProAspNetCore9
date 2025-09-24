@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CodeGenerator", "CodeGenerator", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkManager", "LinkManager", "{525B82EA-3FB6-4413-AF8F-5C6FD3DC8894}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{872E1E24-DBAE-444D-B114-4BEEC22F23E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "code", "code", "{63AAF815-98F6-4A60-B7DF-38250C5189CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{EBBE9A49-1254-4A49-B0EA-726D8629F90D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortUrl.CodeGenerator.API", "ShortUrl.CodeGenerator.API\ShortUrl.CodeGenerator.API.csproj", "{BF4B2ECE-36E3-4F70-A5C1-4D500CC34A2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortUrl.LinkManager.API", "ShortUrl.LinkManager.API\ShortUrl.LinkManager.API.csproj", "{0025427A-8BFE-479F-8661-C089C9ABD7BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortUrl.RazorShortener", "ShortUrl.RazorShortener\ShortUrl.RazorShortener.csproj", "{29112CAD-B6D4-4141-6B0A-E7C289E08AA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF4B2ECE-36E3-4F70-A5C1-4D500CC34A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4B2ECE-36E3-4F70-A5C1-4D500CC34A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4B2ECE-36E3-4F70-A5C1-4D500CC34A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4B2ECE-36E3-4F70-A5C1-4D500CC34A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0025427A-8BFE-479F-8661-C089C9ABD7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0025427A-8BFE-479F-8661-C089C9ABD7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0025427A-8BFE-479F-8661-C089C9ABD7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0025427A-8BFE-479F-8661-C089C9ABD7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29112CAD-B6D4-4141-6B0A-E7C289E08AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29112CAD-B6D4-4141-6B0A-E7C289E08AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29112CAD-B6D4-4141-6B0A-E7C289E08AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29112CAD-B6D4-4141-6B0A-E7C289E08AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{02EA681E-C7D8-13C7-8484-4AC65E1B71E8} = {63AAF815-98F6-4A60-B7DF-38250C5189CE}
+		{525B82EA-3FB6-4413-AF8F-5C6FD3DC8894} = {63AAF815-98F6-4A60-B7DF-38250C5189CE}
+		{872E1E24-DBAE-444D-B114-4BEEC22F23E2} = {63AAF815-98F6-4A60-B7DF-38250C5189CE}
+		{BF4B2ECE-36E3-4F70-A5C1-4D500CC34A2B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{0025427A-8BFE-479F-8661-C089C9ABD7BC} = {525B82EA-3FB6-4413-AF8F-5C6FD3DC8894}
+		{29112CAD-B6D4-4141-6B0A-E7C289E08AA4} = {872E1E24-DBAE-444D-B114-4BEEC22F23E2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9DEB6E6-47A6-401A-A1A2-A9CFCC90EBC6}
+	EndGlobalSection
+EndGlobal
